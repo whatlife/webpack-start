@@ -1,2 +1,4 @@
 
-node_modules
+demo_00/node_modules/node-gyp/node_modules/glob/node_modules
+node_modules/
+.idea/

@@ -1,0 +1,35 @@
+{
+  "name": "demo_001",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/whatlife/webpack-start.git"
+  },
+  "keywords": [
+    "webpack",
+    "level000"
+  ],
+  "author": "jesse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whatlife/webpack-start/issues"
+  },
+  "homepage": "https://github.com/whatlife/webpack-start#readme",
+  "devDependencies": {
+    "css-loader": "^0.24.0",
+    "file-loader": "^0.9.0",
+    "node-sass": "^3.9.0",
+    "sass-loader": "^4.0.1",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "vue": "^1.0.26"
+  }
+}
